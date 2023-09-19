@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foundation of Programming (FOP) - Java & DSA Workspace
 
 Welcome to the **FOP-Java_Lab** repository. This centralized project environment houses all foundational Java modules, logic building paradigms, object-oriented implementations, and Data Structures & Algorithms (DSA) practical assignments.
@@ -44,3 +45,6 @@ javac "Lab3 - DSA/src/com/gl/dsa/lab3/assign_1/balancedBracket/"*.java
 
 # 3. Execute target bytecode
 java -cp "Lab3 - DSA/src" com.gl.dsa.lab3.assign_1.balancedBracket.Driver
+=======
+# First_Assignment_OOPs
+>>>>>>> 4a96b0d (Initial commit)
