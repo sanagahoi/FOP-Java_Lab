@@ -1,5 +1,3 @@
-# Prework
-
 # Java Pre-Work Exercises
 
 Welcome to the **pre-work** sub-directory! This section contains foundational programming exercises designed to build strong logic, master core syntax, and understand structural implementation before diving into advanced data structures and enterprise architectures.
