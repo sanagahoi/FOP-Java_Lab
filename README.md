@@ -8,7 +8,7 @@ Every module integrated into this workspace preserves comprehensive, historical 
 
 ## Modules Roadmap
 
-### 1. [pre-work/](pre-work/)
+### 1. [pre-work/](pre-work)
 A structural directory map focusing on procedural execution paradigms and primitive logic operations.
 *   **Control Mechanisms:** Folder spaces investigating `breakStatement`, `continueStatement`, `switchStatement`, and iterative boundary logic (`loop`).
 *   **Dynamic Solvers:** Single-class programs handling standard algorithmic proofs like `PalindromeChecker.java` and `LeapYearChecker.java`.
