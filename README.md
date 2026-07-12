@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Foundation of Programming (FOP) - Java & DSA Workspace
 
 Welcome to the **FOP-Java_Lab** repository. This centralized project environment houses all foundational Java modules, logic building paradigms, object-oriented implementations, and Data Structures & Algorithms (DSA) practical assignments.
@@ -70,7 +68,7 @@ There are multiple class for multiple problems : -
 7. Simple Pattern Printer
 8. Type Casting Demonstration
 157c8be (Update README.md)
-=======
+
 # OOPs-Box
 
 Hey codingEnthusiasts...
@@ -79,8 +77,8 @@ Here almost all the OOPs concepts are covered....
 I hope it brushes up your basics..
 
 THANK YOU!!
->>>>>>> remote-repo/master
-=======
+remote-repo/master
+
 # StudlyCap_Java
 
 Hey codoPhiles,
@@ -92,4 +90,4 @@ a-z ranges from -> 97 to 122
 A-Z ranges from -> 65 to 90
 
 0-9 ranges from -> 48 to 57
->>>>>>> repo-remote/main
+repo-remote/main
