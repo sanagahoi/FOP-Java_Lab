@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Foundation of Programming (FOP) - Java & DSA Workspace
 
 Welcome to the **FOP-Java_Lab** repository. This centralized project environment houses all foundational Java modules, logic building paradigms, object-oriented implementations, and Data Structures & Algorithms (DSA) practical assignments.
@@ -79,3 +80,16 @@ I hope it brushes up your basics..
 
 THANK YOU!!
 >>>>>>> remote-repo/master
+=======
+# StudlyCap_Java
+
+Hey codoPhiles,
+
+This program is for the studly caps i.e. to convert string into small letters and capital letters alternatively using ASCII code where ASCII code defines as :
+
+a-z ranges from -> 97 to 122
+
+A-Z ranges from -> 65 to 90
+
+0-9 ranges from -> 48 to 57
+>>>>>>> repo-remote/main
