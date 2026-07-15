@@ -1,93 +1,62 @@
-# Foundation of Programming (FOP) - Java & DSA Workspace
+# FOP Java Lab
 
-Welcome to the **FOP-Java_Lab** repository. This centralized project environment houses all foundational Java modules, logic building paradigms, object-oriented implementations, and Data Structures & Algorithms (DSA) practical assignments.
+This repository is a collection of Java practice programs, lab exercises, and beginner-level projects created as part of a Foundation of Programming course. It is designed to help learners build a strong understanding of Java fundamentals, object-oriented programming, and basic data structures and algorithms.
 
-Every module integrated into this workspace preserves comprehensive, historical commit tracks and profile contribution metadata migrated cleanly across developmental cycles.
+## What this repository contains
 
----
+The projects in this workspace cover:
 
-## Modules Roadmap
+- Core Java concepts such as variables, loops, conditionals, and methods
+- Object-oriented programming topics including classes, objects, inheritance, abstraction, encapsulation, and polymorphism
+- Problem-solving exercises and simple console-based applications
+- Data structures and algorithms practice
+- Practical assignments that reflect classroom and lab work
 
-### 1. [pre-work](pre-work/)
-A structural directory map focusing on procedural execution paradigms and primitive logic operations.
-*   **Control Mechanisms:** Folder spaces investigating `breakStatement`, `continueStatement`, `switchStatement`, and iterative boundary logic (`loop`).
-*   **Dynamic Solvers:** Single-class programs handling standard algorithmic proofs like `PalindromeChecker.java` and `LeapYearChecker.java`.
+## Main folders and projects
 
-### 2. [lab-1-email-itsupport/](lab-1-email-itsupport/)
-An enterprise IT Support simulation demonstrating core Object-Oriented Programming (OOP) properties. It automates credential generation pipelines (email syntax and cryptographically random passwords) for scaling organizations depending on distinct corporate verticals.
+### 1. pre-work
+This folder contains introductory Java exercises focused on basic programming logic and fundamental concepts.
 
-### 3. [lab-2/](lab-2/)
-Practical implementations parsing complex runtime business problems via clean optimization design:
-*   **Lab2_assignment_1 (Traveller Currency Counter):** Employs sorting engines to compute the absolute minimum transaction denomination layout necessary to offset target debts.
-*   **Lab2_assignment_2 (PayMoney Target Monitor):** Analyzes linear execution sequences of chronological enterprise revenue logs to pin down the exact transaction index where corporate metrics cross financial thresholds.
+### 2. lab-1-email-itsupport
+This project presents a simple Java-based scenario for an IT support environment. It includes examples related to email credential handling and employee-related data modeling.
 
-### 4. [Lab3 - DSA/](Lab3%20-%20DSA/)
-Advanced programmatic tracking focused on classic computer science data arrangements and graph concepts:
-*   **assign_1/balancedBracket:** A conditional linear syntax checker leveraging Stack logic to parse string sequences and ensure matching mathematical configurations.
-*   **assign_2/pairFinder:** An inspection utility mapping Binary Search Tree (BST) structures to calculate the existence of node pair equations completing designated total summary values.
+### 3. lab-2
+This folder contains practical Java assignments and mini-projects, including:
 
----
+- target-achiever
+- travel-exp-calculator
 
-## Environmental Settings & Execution
+These programs are aimed at solving small real-world style problems using Java.
 
-*   **Compilation Environment:** Java Runtime Environment (JRE) & Java Development Kit (JDK 8+)
-*   **Workspace Engines:** Eclipse IDE, IntelliJ IDEA, or command line terminals matching your native operating system.
+### 4. Lab3 - DSA
+This section focuses on Data Structures and Algorithms practice. It includes assignments such as:
 
-### Compiling and running from root terminal:
+- balanced bracket checking
+- pair finding in a binary search tree
+
+### 5. OOPs Concept and oopsProblems
+These folders are dedicated to practicing object-oriented programming principles and solving common Java problems using OOP concepts.
+
+### 6. Mentor session July
+This folder contains notes and practice programs from mentor-led Java sessions.
+
+## Getting started
+
+To work with the projects in this repository, you will need:
+
+- Java Development Kit (JDK) 8 or newer
+- An IDE such as IntelliJ IDEA, Eclipse, or VS Code
+
+### Running a Java program
+You can compile and run a Java file from the command line as follows:
+
 ```bash
-# 1. Clone your central workspace locally
-git clone [https://github.com/sanagahoi/FOP-Java_Lab.git](https://github.com/sanagahoi/FOP-Java_Lab.git)
-cd FOP-Java_Lab
+javac YourFile.java
+java YourClassName
+```
 
-# 2. Compile an application branch (e.g., Lab 3 Balanced Bracket tracker)
-javac "Lab3 - DSA/src/com/gl/dsa/lab3/assign_1/balancedBracket/"*.java
+If the program uses packages, make sure you run it from the correct source root.
 
-# 3. Execute target bytecode
-java -cp "Lab3 - DSA/src" com.gl.dsa.lab3.assign_1.balancedBracket.Driver
+## Notes
 
-# First_Assignment_OOPs
-4a96b0d (Initial commit)
-
-# First_Assignment_OOPs
-
-## In fist Assigment 
-there are 4 options to choose what you want to perform using a single interface :-
-1. Check Palindrome
-2. Print Pattern
-3. Check Prime Number
-4. Print Fibonacci Series
-
-## In Second folder
-There are multiple class for multiple problems : -
-1. Binary To Decimal converter
-2. Basic Calculator
-3. Even Number Checker
-4. Leap Year Checker
-5. Number Interchanger
-6. Prime Composite Number Checker
-7. Simple Pattern Printer
-8. Type Casting Demonstration
-157c8be (Update README.md)
-
-# OOPs-Box
-
-Hey codingEnthusiasts...
-
-Here almost all the OOPs concepts are covered.... 
-I hope it brushes up your basics..
-
-THANK YOU!!
-remote-repo/master
-
-# StudlyCap_Java
-
-Hey codoPhiles,
-
-This program is for the studly caps i.e. to convert string into small letters and capital letters alternatively using ASCII code where ASCII code defines as :
-
-a-z ranges from -> 97 to 122
-
-A-Z ranges from -> 65 to 90
-
-0-9 ranges from -> 48 to 57
-repo-remote/main
+This repository is intended for learning and practice. It is not a production-grade application, but it provides a solid foundation for understanding Java programming and problem solving.
